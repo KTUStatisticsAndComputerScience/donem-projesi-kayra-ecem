@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Quicksand:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Karla&display=swap');
+body{
+    font-family: "Karla";
+    color: #eee
+}
+
+h1 {
+    font-family: "Kanit";
+    font-size: 20pt;
+}
+
+h2 {
+    font-family: "Kanit";
+    font-size: 18pt;
+}
+.logo{
+    border-radius: 50%;
+    height: 35px;
+    width: 35px;
+    margin-top: -7px;
+}
+
